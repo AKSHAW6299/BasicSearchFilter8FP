@@ -1,0 +1,21 @@
+export const players = [
+  { "name": "Virat Kohli", "age": 36, "city": "Delhi" },
+  { "name": "Rohit Sharma", "age": 38, "city": "Mumbai" },
+  { "name": "KL Rahul", "age": 33, "city": "Bengaluru" },
+  { "name": "Hardik Pandya", "age": 32, "city": "Surat" },
+  { "name": "Rishabh Pant", "age": 28, "city": "Roorkee" },
+  { "name": "Shubman Gill", "age": 26, "city": "Firozpur" },
+  { "name": "Suryakumar Yadav", "age": 35, "city": "Mumbai" },
+  { "name": "Ravindra Jadeja", "age": 37, "city": "Jamnagar" },
+  { "name": "Jasprit Bumrah", "age": 32, "city": "Ahmedabad" },
+  { "name": "Mohammed Shami", "age": 35, "city": "Amroha" },
+  { "name": "Kuldeep Yadav", "age": 30, "city": "Kanpur" },
+  { "name": "Yuzvendra Chahal", "age": 35, "city": "Jind" },
+  { "name": "Axar Patel", "age": 31, "city": "Anand" },
+  { "name": "Ishan Kishan", "age": 27, "city": "Patna" },
+  { "name": "Shreyas Iyer", "age": 31, "city": "Mumbai" },
+  { "name": "Ruturaj Gaikwad", "age": 28, "city": "Pune" },
+  { "name": "Mohammed Siraj", "age": 31, "city": "Hyderabad" },
+  { "name": "Prithvi Shaw", "age": 26, "city": "Thane" },
+  { "name": "Sanju Samson", "age": 31, "city": "Trivandrum" }
+];
